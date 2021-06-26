@@ -8,4 +8,3 @@ Criação de usuários, autenticação por meio de usuário e senha, seleção, 
 ## 🚀 Tecnologias
 - Java 11
 - PostgreSQL
-- Hibernate
